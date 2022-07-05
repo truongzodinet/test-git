@@ -1,1 +1,1 @@
-Ahihi this is test file for git
+The test file for ssh clone
